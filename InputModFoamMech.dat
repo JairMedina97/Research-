@@ -1,0 +1,429 @@
+2.4d0            read(8,*)m    
+0.28d0           read(8,*)n
+0.0585d0         read(8,*)SwAster
+3.d-12         read(8,*)PermAbs
+0.31d0           read(8,*)phy
+1.39d0           1.2413d-3           read(8,*)Nuw0
+6.5585d-5        read(8,*)Nug0
+0.04d0           read(8,*)Swc 
+0.d0             read(8,*)Sgr
+800              500              read(8,*)iMax  
+90000           read(8,*)kMax
+1.3            read(8,*)tMax 0.25d0 equlibri
+0.9999d0         read(8,*)Swini
+0.d0             read(8,*)nfini(1/m3) 
+0.28d0           read(8,*)FwJ
+1.d0             read(8,*)Krg00
+0.7888d0         read(8,*)Krw
+414.d0           read(8,*)PwJ2.8d10 
+0.04d0           read(8,*)Swc
+0.d0             read(8,*)Sgr
+2.2868d0         read(8,*)nkrg
+1.9575d0         read(8,*)nkrw
+0.2d0            read(8,*)n2Pc
+20000             read(8,*)iterMax
+1.d-12           read(8,*)ConverMax
+0.07d0           0.5d0            read(8,*)relax 
+0.5d0            read(8,*)gama
+22.683d0         2.d5            read(8,*)Dam
+8.476d0          7.9927d-1       read(8,*)Gam
+10.d10           read(8,*)Ca
+36.101           1.2413d-5         read(8,*)Br
+1.666667d-2      5.d-2            read(8,*)rw
+0.00001d0        read(8,*)eps
+1000.d0          read(8,*)icontMa
+8.0568d0          read(8,*)Br2
+0.02d0          read(8,*)Sgcr
+0.2d0     read(8,*)MediaPoro
+0.04d0      read(8,*)DesStanPoro
+1.d0      read(8,*)nPer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.4d0            read(8,*)m
+0.28d0           read(8,*)n
+0.0585d0         read(8,*)SwAster
+30.4d-12         read(8,*)PermAbs
+0.31d0           read(8,*)phy
+1.39d0        read(8,*)Nuw0
+6.5585d-5        read(8,*)Nug0
+0.04d0           read(8,*)Swc 
+0.d0             read(8,*)Sgr
+400              read(8,*)iMax  
+1000000          read(8,*)kMax
+0.7d0            read(8,*)tMax 0.25d0 equlibrio
+0.9999d0         read(8,*)Swini
+0.d0             read(8,*)nfini(1/m3) 
+0.28d0           read(8,*)FwJ
+1.d0             read(8,*)Krg00
+0.7888d0         read(8,*)Krw
+414.d0           read(8,*)PwJ2.8d10 
+0.04d0           read(8,*)Swc
+0.d0             read(8,*)Sgr
+2.2868d0         read(8,*)nkrg
+1.9575d0         read(8,*)nkrw
+0.2d0            read(8,*)n2Pc
+1000             read(8,*)iterMax
+1.d-12           read(8,*)ConverMax
+0.7d0            read(8,*)relax 
+0.5d0            read(8,*)gama
+22.683d0         read(8,*)Da
+8.476d6          read(8,*)Ga
+10.d10           read(8,*)Ca
+36.101d0         read(8,*)Br
+1.66667d-2       read(8,*)rw
+0.00001d0        read(8,*)eps
+5000.d0             read(8,*)icontMax
+
+cas0 1e-4
+2.4d0            read(8,*)m    
+0.28d0           read(8,*)n
+0.0585d0         read(8,*)SwAster
+30.4d-12         read(8,*)PermAbs
+0.31d0           read(8,*)phy
+5.76d-3           read(8,*)Nuw0
+6.5585d-5        read(8,*)Nug0
+0.04d0           read(8,*)Swc 
+0.d0             read(8,*)Sgr
+500              read(8,*)iMax  
+2000000           read(8,*)kMax                                                                                                                                                                                                               
+0.01            read(8,*)tMax 0.25d0 equlibri
+0.9999d0         read(8,*)Swini
+0.d0             read(8,*)nfini(1/m3) 
+0.28d0           read(8,*)FwJ
+1.d0             read(8,*)Krg00
+0.7888d0         read(8,*)Krw
+414.d0           read(8,*)PwJ2.8d10 
+0.04d0           read(8,*)Swc
+0.d0             read(8,*)Sgr
+2.2868d0         read(8,*)nkrg
+1.9575d0         read(8,*)nkrw
+0.2d0            read(8,*)n2Pc
+20000             read(8,*)iterMax
+1.d-12           read(8,*)ConverMax
+0.5d0            read(8,*)relax 
+0.2d0            read(8,*)gama
+2.d9            read(8,*)Da
+1.266d3       read(8,*)Ga
+10.d10           read(8,*)Ca
+5.761d-5         read(8,*)Br
+5.d-5            read(8,*)rw
+0.00001d0        read(8,*)eps
+1000.d0          read(8,*)icontMa
+1.735          read(8,*)Br2
+0.02d0          read(8,*)Sgcr
+
+caso 1e-2
+2.4d0            read(8,*)m    
+0.28d0           read(8,*)n
+0.0585d0         read(8,*)SwAster
+30.4d-12         read(8,*)PermAbs
+0.31d0           read(8,*)phy
+1.2413d-2           read(8,*)Nuw0
+6.5585d-5        read(8,*)Nug0
+0.04d0           read(8,*)Swc 
+0.d0             read(8,*)Sgr
+500              read(8,*)iMax  
+2000000           read(8,*)kMax
+0.01            read(8,*)tMax 0.25d0 equlibri
+0.9999d0         read(8,*)Swini
+0.d0             read(8,*)nfini(1/m3) 
+0.28d0           read(8,*)FwJ
+1.d0             read(8,*)Krg00
+0.7888d0         read(8,*)Krw
+414.d0           read(8,*)PwJ2.8d10 
+0.04d0           read(8,*)Swc
+0.d0             read(8,*)Sgr
+2.2868d0         read(8,*)nkrg
+1.9575d0         read(8,*)nkrw
+0.2d0            read(8,*)n2Pc
+10000             read(8,*)iterMax
+1.d-12           read(8,*)ConverMax
+0.5d0            read(8,*)relax 
+0.2d0            read(8,*)gama
+2.d8            read(8,*)Da
+5.0431d4       read(8,*)Ga
+10.d10           read(8,*)Ca
+1.2413d-4         read(8,*)Br
+5.d-5            read(8,*)rw
+0.00001d0        read(8,*)eps
+1000.d0          read(8,*)icontMa
+8.0568d-1         read(8,*)Br2
+0.02d0          read(8,*)Sgcr
+
+
+CASO 2-3.5857X10-6
+2.4d0            read(8,*)m 
+0.28d0           read(8,*)n
+0.0585d0         read(8,*)SwAster
+30.4d-12         read(8,*)PermAbs
+0.31d0           read(8,*)phy
+3.2792d-3        read(8,*)Nuw0
+6.5585d-5        read(8,*)Nug0
+0.04d0           read(8,*)Swc 
+0.d0             read(8,*)Sgr
+100              read(8,*)iMax  
+128000           read(8,*)kMax
+0.3d0            read(8,*)tMax 0.25d0 equlibrio
+0.9999d0         read(8,*)Swini
+0.d0             read(8,*)nfini(1/m3) 
+0.28d0           read(8,*)FwJ
+1.d0             read(8,*)Krg00
+0.7888d0         read(8,*)Krw
+414.d0           read(8,*)PwJ2.8d10 
+0.04d0           read(8,*)Swc
+0.d0             read(8,*)Sgr
+2.2868d0         read(8,*)nkrg
+1.9575d0         read(8,*)nkrw
+0.2d0            read(8,*)n2Pc
+2000             read(8,*)iterMax
+1.d-11           read(8,*)ConverMax
+0.7d0            read(8,*)relax 
+0.5d0            read(8,*)gama
+1.5605d5         read(8,*)Da
+1.d0             read(8,*)Ga
+10000            read(8,*)Ca
+1.8982d0         read(8,*)Br
+1.66667d-2       read(8,*)rw
+0.00001d0        read(8,*)eps
+5000.d0             read(8,*)icontMax
+
+
+CASO 1 UT-1.84357X10-5
+2.4d0            read(8,*)m
+0.28d0           read(8,*)n
+0.0585d0         read(8,*)SwAster
+30.4d-12         read(8,*)PermAbs
+0.31d0           read(8,*)phy
+3.2792d-3        read(8,*)Nuw0
+6.5585d-5        read(8,*)Nug0
+0.04d0           read(8,*)Swc 
+0.d0             read(8,*)Sgr
+500              read(8,*)iMax  
+256000           read(8,*)kMax
+0.1d0            read(8,*)tMax 0.25d0 equlibrio
+0.9999d0         read(8,*)Swini
+0.d0             read(8,*)nfini(1/m3) 
+0.28d0           read(8,*)FwJ
+1.d0             read(8,*)Krg00
+0.7888d0         read(8,*)Krw
+414.d0           read(8,*)PwJ2.8d10 
+0.04d0           read(8,*)Swc
+0.d0             read(8,*)Sgr
+2.2868d0         read(8,*)nkrg
+1.9575d0         read(8,*)nkrw
+0.2d0            read(8,*)n2Pc
+1000             read(8,*)iterMax
+1.d-12           read(8,*)ConverMax
+0.7d0            read(8,*)relax 
+0.5d0            read(8,*)gama
+30268.d0         read(8,*)Da
+84.6710d0        read(8,*)Ga
+10.d10            read(8,*)Ca
+3.2791d0         read(8,*)Br
+1.66667d-2       read(8,*)rw
+0.00001d0        read(8,*)eps
+
+
+CASO 3-UT=0.00053932
+2.4d0            read(8,*)m
+0.28d0           read(8,*)n
+0.0585d0         read(8,*)SwAster
+30.4d-12         read(8,*)PermAbs
+0.31d0           read(8,*)phy
+3.2792d-3        read(8,*)Nuw0
+6.5585d-5        read(8,*)Nug0
+0.04d0           read(8,*)Swc 
+0.d0             read(8,*)Sgr
+500              read(8,*)iMax  
+800000           read(8,*)kMax
+0.7d0            read(8,*)tMax 0.25d0 equlibrio
+0.9999d0         read(8,*)Swini
+0.d0             read(8,*)nfini(1/m3) 
+0.28d0           read(8,*)FwJ
+1.d0             read(8,*)Krg00
+0.7888d0         read(8,*)Krw
+414.d0           read(8,*)PwJ2.8d10 
+0.04d0           read(8,*)Swc
+0.d0             read(8,*)Sgr
+2.2868d0         read(8,*)nkrg
+1.9575d0         read(8,*)nkrw
+0.2d0            read(8,*)n2Pc
+1000             read(8,*)iterMax
+1.d-12           read(8,*)ConverMax
+0.7d0            read(8,*)relax 
+0.5d0            read(8,*)gama
+1034.6d0         read(8,*)Da
+18778.d0        read(8,*)Ga
+10.d10            read(8,*)Ca
+10.104d0         read(8,*)Br
+1.66667d-2       read(8,*)rw
+0.00001d0        read(8,*)eps
+
+
+
+CASO 3-UT=0.00023932
+2.4d0            read(8,*)m
+0.28d0           read(8,*)n
+0.0585d0         read(8,*)SwAster
+30.4d-12         read(8,*)PermAbs
+0.31d0           read(8,*)phy
+3.2792d-3        read(8,*)Nuw0
+6.5585d-5        read(8,*)Nug0
+0.04d0           read(8,*)Swc 
+0.d0             read(8,*)Sgr
+500              read(8,*)iMax  
+800000           read(8,*)kMax
+0.7d0            read(8,*)tMax 0.25d0 equlibrio
+0.9999d0         read(8,*)Swini
+0.d0             read(8,*)nfini(1/m3) 
+0.28d0           read(8,*)FwJ
+1.d0             read(8,*)Krg00
+0.7888d0         read(8,*)Krw
+414.d0           read(8,*)PwJ2.8d10 
+0.04d0           read(8,*)Swc
+0.d0             read(8,*)Sgr
+2.2868d0         read(8,*)nkrg
+1.9575d0         read(8,*)nkrw
+0.2d0            read(8,*)n2Pc
+1000             read(8,*)iterMax
+1.d-12           read(8,*)ConverMax
+0.7d0            read(8,*)relax 
+0.5d0            read(8,*)gama
+2331.6d0         read(8,*)Da
+5117.6d0         read(8,*)Ga
+10.d10           read(8,*)Ca
+7.7065d0         read(8,*)Br
+1.66667d-2       read(8,*)rw
+0.00001d0        read(8,*)eps
+
+
+CAS0 4-UT=0.00246
+2.4d0            read(8,*)m
+0.28d0           read(8,*)n
+0.0585d0         read(8,*)SwAster
+30.4d-12         read(8,*)PermAbs
+0.31d0           read(8,*)phy
+3.2792d-3        read(8,*)Nuw0
+6.5585d-5        read(8,*)Nug0
+0.04d0           read(8,*)Swc 
+0.d0             read(8,*)Sgr
+500              read(8,*)iMax  
+800000           read(8,*)kMax
+0.7d0            read(8,*)tMax 0.25d0 equlibrio
+0.9999d0         read(8,*)Swini
+0.d0             read(8,*)nfini(1/m3) 
+0.28d0           read(8,*)FwJ
+1.d0             read(8,*)Krg00
+0.7888d0         read(8,*)Krw
+414.d0           read(8,*)PwJ2.8d10 
+0.04d0           read(8,*)Swc
+0.d0             read(8,*)Sgr
+2.2868d0         read(8,*)nkrg
+1.9575d0         read(8,*)nkrw
+0.2d0            read(8,*)n2Pc
+1000             read(8,*)iterMax
+1.d-12           read(8,*)ConverMax
+0.7d0            read(8,*)relax 
+0.5d0            read(8,*)gama
+98.882d0         read(8,*)Da
+8.0376d5         read(8,*)Ga
+10.d10           read(8,*)Ca
+22.1d0           read(8,*)Br
+1.66667d-2       read(8,*)rw
+0.00001d0        read(8,*)eps
+ 
+
+CAS0 4-UT=0.0246
+2.4d0            read(8,*)m
+0.28d0           read(8,*)n
+0.0585d0         read(8,*)SwAster
+30.4d-12         read(8,*)PermAbs
+0.31d0           read(8,*)phy
+3.2792d-3        read(8,*)Nuw0
+6.5585d-5        read(8,*)Nug0
+0.04d0           read(8,*)Swc 
+0.d0             read(8,*)Sgr
+500              read(8,*)iMax  
+800000           read(8,*)kMax
+0.7d0            read(8,*)tMax 0.25d0 equlibrio
+0.9999d0         read(8,*)Swini
+0.d0             read(8,*)nfini(1/m3) 
+0.28d0           read(8,*)FwJ
+1.d0             read(8,*)Krg00
+0.7888d0         read(8,*)Krw
+414.d0           read(8,*)PwJ2.8d10 
+0.04d0           read(8,*)Swc
+0.d0             read(8,*)Sgr
+2.2868d0         read(8,*)nkrg
+1.9575d0         read(8,*)nkrw
+0.2d0            read(8,*)n2Pc
+1000             read(8,*)iterMax
+1.d-12           read(8,*)ConverMax
+0.7d0            read(8,*)relax 
+0.5d0            read(8,*)gama
+22.683d0         read(8,*)Da
+8.476d6          read(8,*)Ga
+10.d10           read(8,*)Ca
+36.101d0         read(8,*)Br
+1.66667d-2       read(8,*)rw
+0.00001d0        read(8,*)eps
+
+
+2.4d0            read(8,*)m
+0.28d0           read(8,*)n
+0.0585d0         read(8,*)SwAster
+30.4d-12         read(8,*)PermAbs
+0.31d0           read(8,*)phy
+4.54        read(8,*)Nuw0
+6.5585d-5        read(8,*)Nug0
+0.04d0           read(8,*)Swc 
+0.d0             read(8,*)Sgr
+500              read(8,*)iMax  
+800000           read(8,*)kMax
+0.7d0            read(8,*)tMax 0.25d0 equlibrio
+0.9999d0         read(8,*)Swini
+0.d0             read(8,*)nfini(1/m3) 
+0.28d0           read(8,*)FwJ
+1.d0             read(8,*)Krg00
+0.7888d0         read(8,*)Krw
+414.d0           read(8,*)PwJ2.8d10 
+0.04d0           read(8,*)Swc
+0.d0             read(8,*)Sgr
+2.2868d0         read(8,*)nkrg
+1.9575d0         read(8,*)nkrw
+0.2d0            read(8,*)n2Pc
+10000             read(8,*)iterMax
+1.d-12           read(8,*)ConverMax
+0.5d0            read(8,*)relax 
+0.5d0            read(8,*)gama
+793.08d0         read(8,*)Da
+28734.d0         read(8,*)Ga
+10.d10           read(8,*)Ca
+11.04d0         read(8,*)Br
+1.66667d-2       read(8,*)rw
+0.00001d0        read(8,*)ep
+5000.d0             read(8,*)icontMax
+
